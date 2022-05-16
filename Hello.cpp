@@ -2,6 +2,8 @@
 using namespace std;
 
 int main(){
-cout<<"rm -rf .git is used to remove .git folder";
+
+cout<<"Solve merge conflict";
+
   return 0;
 }
