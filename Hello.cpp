@@ -2,6 +2,6 @@
 using namespace std;
 
 int main(){
-cout<<"Add collaborator";
+cout<<"Solve merge conflict";
   return 0;
 }
