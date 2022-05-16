@@ -2,6 +2,6 @@
 using namespace std;
 
 int main(){
-cout<<"Add collaborator";
+cout<<"rm -rf .git is used to remove .git folder";
   return 0;
 }
